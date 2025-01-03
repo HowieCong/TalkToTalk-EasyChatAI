@@ -1,8 +1,8 @@
-# AI Chat 工具
+# TalkToTalk-EasyChatAI
 
-## 简介
+## Introduction: This is an AI chat tool that integrates Baidu's Qianfan and Alibaba's Qianyitongwen.
 
-###这是一个 AI Chat 工具，集成了百度的千帆以及阿里的千义通问。
-####由Function函数猫活跃开发者社区做技术支持。
-####2025/01/04 HowieCong部署
+#### Technical Support:https://functioncat.cn/FunctionCat函数猫活跃开发者社区
+
+#### Deployment:2025/01/04 https://bonjour.bio/zh/howiecongHowieCong
 
